@@ -1,0 +1,300 @@
+  Nota de Negociação
+Data da Consulta: 12/02/2024 11:51
+Data de Referência: 09/02/2024
+RAMON GUELBER MARTINS
+RUA DOIS, 471 - - JARDIM BOUGANVILLE
+35860-000 CONCEICAO DO MATO DENTRO - MG
+Tel.: (31) 98375-5005
+CPF/CNPJ
+Conta XP
+Código Assessor de Investimentos
+Nome Assessor de Investimentos
+048.787.426-90
+2021342
+A25652
+Roberto Oleques Padilha
+  Data pregão
+09/02/2024
+Nº Nota
+82115287
+Agente de compensação
+ 
+Cliente
+-
+Custodiante
+ 
+C.I.
+N
+Banco     Agência     Conta CorrenteAcionistaAdministradorComplemento nome
+Bovespa - Depósito / Vista
+Negociações
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTAUNIPAR UNIP6 PNB10068,476.847,00C
+ UNIPAR UNIP6 PNB   Quantidade Total: 100   Preço Médio: 68,4700
+XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.  1
+AV ATAULFO DE PAIVA, 153 - SALA 201 LEBLON
+RIO DE JANEIRO - RJ
+CEP: 22440-032
+CNPJ: 02.332.886/0001-04
+ 
+https://www.xpi.com.br/
+Atendimento ao cliente: +55 11 4003-3710 (capitais e regiões metropolitanas)
+e 0800-772-0202 (demais regiões). Dias úteis, de segunda a sexta-feira, das 9h às 19h30.
+Ouvidoria: 0800 722 3730. Dias úteis, de segunda a sexta-feira, das 9h às 18h.
+----------------Page (0) Break----------------
+  Nota de Negociação
+Data da Consulta: 12/02/2024 11:51
+Data de Referência: 09/02/2024
+RAMON GUELBER MARTINS
+RUA DOIS, 471 - - JARDIM BOUGANVILLE
+35860-000 CONCEICAO DO MATO DENTRO - MG
+Tel.: (31) 98375-5005
+CPF/CNPJ
+Conta XP
+Código Assessor de Investimentos
+Nome Assessor de Investimentos
+048.787.426-90
+2021342
+A25652
+Roberto Oleques Padilha
+Resumo dos NegóciosResumo FinanceiroD/C
+0,00
+6.847,00
+0,00
+0,00
+0,00
+0,00
+0,00
+6.847,00
+Debêntures
+Vendas à Vista
+Compras à Vista
+Opções - Compras
+Opções - Vendas
+Operações à termo
+Valor das oper. c/ títulos públi. (v.nom.)
+Valor das operações
+6.847,00
+1,71
+0,00
+CBLC
+Valor líquido das operações
+Taxa de liquidação
+Taxa de Registro
+ 
+C
+D
+ 
+6.845,29Total CBLCC
+0,00
+0,00
+0,34
+Bovespa / Soma
+Taxa de termo/opções
+Taxa A.N.A.
+Emolumentos
+ 
+ 
+ 
+D
+0,34Total Bovespa / SomaD
+Especificações diversas
+A coluna Q indica a liquidação no
+Agente do Qualificado
+4,90
+0,52
+0,34
+0,28
+Corretagem / Despesas
+Corretagem
+ISS*(SÃO PAULO)
+I.R.R.F. s/ operações, base R$6.847,00
+Outras Bovespa
+ 
+D
+D
+D
+D
+5,70Total Corretagem / DespesasD
+6.839,25Líquido para 15/02/2024C
+(*) Observações
+2 - Corretora ou pessoa vinculada atuouna contra parte.
+# - Negócio direto
+8 - Liquidação Institucional
+D - Day Trade
+F - Cobertura
+B - Debêntures
+T - Liquidação pelo Bruto
+A - Posição futuro
+C - Clubes e fundos de Ações
+P - Carteira Própria
+H - Home Broker
+X - Box
+Y - Desmanche de Box
+L - Precatório
+I - POP
+Observação: (1) As operações a termo não são computadas no líquido da fatura
+XP INVESTIMENTOS CCTVM S/A
+* O campo ISS contempla além do próprio ISS os valores PIS e COFINS ( ISS 5%, PIS 0,65% e COFINS 4%)
+XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.  2
+AV ATAULFO DE PAIVA, 153 - SALA 201 LEBLON
+RIO DE JANEIRO - RJ
+CEP: 22440-032
+CNPJ: 02.332.886/0001-04
+ 
+https://www.xpi.com.br/
+Atendimento ao cliente: +55 11 4003-3710 (capitais e regiões metropolitanas)
+e 0800-772-0202 (demais regiões). Dias úteis, de segunda a sexta-feira, das 9h às 19h30.
+Ouvidoria: 0800 722 3730. Dias úteis, de segunda a sexta-feira, das 9h às 18h.
+----------------Page (1) Break----------------
+  Nota de Negociação
+Data da Consulta: 12/02/2024 11:51
+Data de Referência: 09/02/2024
+RAMON GUELBER MARTINS
+RUA DOIS, 471 - - JARDIM BOUGANVILLE
+35860-000 CONCEICAO DO MATO DENTRO - MG
+Tel.: (31) 98375-5005
+CPF/CNPJ
+Conta XP
+Código Assessor de Investimentos
+Nome Assessor de Investimentos
+048.787.426-90
+2021342
+A25652
+Roberto Oleques Padilha
+  Data pregão
+09/02/2024
+Nº Nota
+82115288
+Agente de compensação
+ 
+Cliente
+-
+Custodiante
+ 
+C.I.
+N
+Banco     Agência     Conta CorrenteAcionistaAdministradorComplemento nome
+Bovespa - Depósito / Vista
+Negociações
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACOPCAO DE COMPRA03/24BBAS FM BBASC595 ON 59,5000,82410,00D
+ BBAS FM BBASC595 ON 59,51   Quantidade Total: 500   Preço Médio: 0,8200
+1-BOVESPACOPCAO DE COMPRA03/24PETR PETRC431 PN 42,013001,50450,00D
+ PETR PETRC431 PN 42,01   Quantidade Total: 300   Preço Médio: 1,5000
+XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.  1
+AV ATAULFO DE PAIVA, 153 - SALA 201 LEBLON
+RIO DE JANEIRO - RJ
+CEP: 22440-032
+CNPJ: 02.332.886/0001-04
+ 
+https://www.xpi.com.br/
+Atendimento ao cliente: +55 11 4003-3710 (capitais e regiões metropolitanas)
+e 0800-772-0202 (demais regiões). Dias úteis, de segunda a sexta-feira, das 9h às 19h30.
+Ouvidoria: 0800 722 3730. Dias úteis, de segunda a sexta-feira, das 9h às 18h.
+----------------Page (2) Break----------------
+  Nota de Negociação
+Data da Consulta: 12/02/2024 11:51
+Data de Referência: 09/02/2024
+RAMON GUELBER MARTINS
+RUA DOIS, 471 - - JARDIM BOUGANVILLE
+35860-000 CONCEICAO DO MATO DENTRO - MG
+Tel.: (31) 98375-5005
+CPF/CNPJ
+Conta XP
+Código Assessor de Investimentos
+Nome Assessor de Investimentos
+048.787.426-90
+2021342
+A25652
+Roberto Oleques Padilha
+Resumo dos NegóciosResumo FinanceiroD/C
+0,00
+0,00
+0,00
+860,00
+0,00
+0,00
+0,00
+860,00
+Debêntures
+Vendas à Vista
+Compras à Vista
+Opções - Compras
+Opções - Vendas
+Operações à termo
+Valor das oper. c/ títulos públi. (v.nom.)
+Valor das operações
+860,00
+0,23
+0,59
+CBLC
+Valor líquido das operações
+Taxa de liquidação
+Taxa de Registro
+ 
+D
+D
+ 
+860,82Total CBLCD
+0,00
+0,00
+0,31
+Bovespa / Soma
+Taxa de termo/opções
+Taxa A.N.A.
+Emolumentos
+ 
+ 
+ 
+D
+0,31Total Bovespa / SomaD
+Especificações diversas
+A coluna Q indica a liquidação no
+Agente do Qualificado
+9,80
+1,04
+0,00
+0,57
+Corretagem / Despesas
+Corretagem
+ISS*(SÃO PAULO)
+I.R.R.F. s/ operações, base R$0,00
+Outras Bovespa
+ 
+D
+D
+D
+D
+11,41Total Corretagem / DespesasD
+872,54Líquido para 14/02/2024D
+(*) Observações
+2 - Corretora ou pessoa vinculada atuouna contra parte.
+# - Negócio direto
+8 - Liquidação Institucional
+D - Day Trade
+F - Cobertura
+B - Debêntures
+T - Liquidação pelo Bruto
+A - Posição futuro
+C - Clubes e fundos de Ações
+P - Carteira Própria
+H - Home Broker
+X - Box
+Y - Desmanche de Box
+L - Precatório
+I - POP
+Observação: (1) As operações a termo não são computadas no líquido da fatura
+XP INVESTIMENTOS CCTVM S/A
+* O campo ISS contempla além do próprio ISS os valores PIS e COFINS ( ISS 5%, PIS 0,65% e COFINS 4%)
+XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.  2
+AV ATAULFO DE PAIVA, 153 - SALA 201 LEBLON
+RIO DE JANEIRO - RJ
+CEP: 22440-032
+CNPJ: 02.332.886/0001-04
+ 
+https://www.xpi.com.br/
+Atendimento ao cliente: +55 11 4003-3710 (capitais e regiões metropolitanas)
+e 0800-772-0202 (demais regiões). Dias úteis, de segunda a sexta-feira, das 9h às 19h30.
+Ouvidoria: 0800 722 3730. Dias úteis, de segunda a sexta-feira, das 9h às 18h.
+----------------Page (3) Break----------------
